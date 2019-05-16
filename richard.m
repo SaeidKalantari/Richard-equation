@@ -1,8 +1,5 @@
 %MATLAB code for 1-D Richard equation using h-based formulation, fully
 %implicit, tangent approximation.
-%Writen by Saeed Kalantari and Danial Amini Baghbadorani
-%For class of "Numerical Methods for Water Engineering", instructor:
-%Professor Ataie-Ashtiani, Spring 2018-2019
 %Reference paper:
 % % Shahraiyni, H. T., & Ataie-Ashtiani, B. (2011). Mathematical forms and
 % % numerical schemes for the solution of unsaturated flow equations. Journal
